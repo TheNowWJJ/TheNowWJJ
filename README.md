@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - ⚡ 目前属于FPS/MOBA类游戏的"云"玩家.
 
 [![TheNow's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNowWJJ)](https://github.com/TheNowWJJ/TheNowWJJ/)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact)](https://github.com/TheNowWJJ/TheNowWJJ/)
 
