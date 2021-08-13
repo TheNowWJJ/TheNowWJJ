@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TheNow's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNowWJJ)](https://github.com/anuraghazra/github-readme-stats)
+[![TheNow's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNowWJJ)](https://github.com/TheNowWJJ/TheNowWJJ/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&langs_count=8)](https://github.com/TheNowWJJ/TheNowWJJ/)
+
