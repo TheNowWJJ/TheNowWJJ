@@ -34,7 +34,7 @@
 ![Spring Cloud Alibaba](badges/spring-cloud-alibaba.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DolphinScheduler](badges/dolphinscheduler.svg)
+![DolphinScheduler](badges/dolphinscheduler.svg?v=4)
 
 **前端 / 工程**
 
