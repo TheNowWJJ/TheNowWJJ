@@ -31,10 +31,10 @@
 **后端 / 中间件**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud Alibaba](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-6DB33F?style=flat-square&logo=spring&logoColor=white&v=3)
+![Spring Cloud Alibaba](badges/spring-cloud-alibaba.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DolphinScheduler](https://img.shields.io/badge/DolphinScheduler-1E9FFF?style=flat-square&logo=apache&logoColor=white&v=3)
+![DolphinScheduler](badges/dolphinscheduler.svg)
 
 **前端 / 工程**
 
