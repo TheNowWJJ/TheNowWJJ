@@ -2,9 +2,8 @@
 
 # The Now 👋
 
-**Java 后端 · 技术架构与任务调度 · 跨境电商企业系统**
+**Java 后端 · 企业系统架构 · 数据与调度 · AI 工程化**
 
-[![Blog](https://img.shields.io/badge/Blog-blog.veryjava.cn-2f81f7?style=flat-square&logo=hexo&logoColor=white)](https://blog.veryjava.cn)
 [![Email](https://img.shields.io/badge/Email-work__wjj%40163.com-2f81f7?style=flat-square&logo=gmail&logoColor=white)](mailto:work_wjj@163.com)
 [![Followers](https://img.shields.io/github/followers/TheNowWJJ?style=flat-square&color=2f81f7&label=followers)](https://github.com/TheNowWJJ?tab=followers)
 
@@ -12,13 +11,14 @@
 
 ---
 
-做跨境电商企业系统的后端:多仓 ERP、自建海外仓(OWMS)、打单系统(TMS)。负责技术架构与任务调度,顺手把重复劳动交给代码和 AI。
+写后端,也写把后端串起来的那一层:领域怎么拆、链路怎么异步、调度怎么不出错。
+选型偏好简单可维护,新东西先在最细的一条链路上跑通,再谈推广。
 
-### 在忙什么
+### 关注方向
 
-- **企业系统架构** — 多仓多平台订单链路的领域拆分、异步编排与调度可靠性
-- **AI 工程化落地** — 把 LLM 接进真实研发流程,不追概念,只求上线能用
-- **工具链沉淀** — 一套自己能长期维护的脚手架,而不是每周换一个新框架
+- **架构与调度** — 长链路的领域拆分、幂等与重试、任务依赖与失败恢复
+- **数据链路** — 业务库到数仓的取数路径,以及同一指标只允许一种口径
+- **AI 工程化** — 把 LLM 放进真实研发流程:可观测、可回退、成本算得清
 
 ### 技术栈
 
@@ -41,12 +41,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 精选项目
+### 开源
 
 | 项目 | 说明 |
 | --- | --- |
-| [**spring-boot-start-aliyunoss**](https://github.com/TheNowWJJ/spring-boot-start-aliyunoss) | 阿里云 OSS 的 Spring Boot 自动化配置,拿来即用 |
-| [**blog**](https://blog.veryjava.cn) | 折腾记录与踩坑笔记 |
+| [**spring-boot-start-aliyunoss**](https://github.com/TheNowWJJ/spring-boot-start-aliyunoss) | 阿里云 OSS 的 Spring Boot 自动化配置,引入依赖填好配置即可用 |
 
 ### 数据
 
