@@ -4,8 +4,7 @@
 
 **Java 后端 · 企业系统架构 · 数据与调度 · AI 工程化**
 
-[![Email](https://img.shields.io/badge/Email-work__wjj%40163.com-2f81f7?style=flat-square&logo=gmail&logoColor=white)](mailto:work_wjj@163.com)
-[![Followers](https://img.shields.io/github/followers/TheNowWJJ?style=flat-square&color=2f81f7&label=followers)](https://github.com/TheNowWJJ?tab=followers)
+[✉️ work_wjj@163.com](mailto:work_wjj@163.com) &nbsp;·&nbsp; [GitHub 主页](https://github.com/TheNowWJJ)
 
 </div>
 
@@ -23,19 +22,22 @@
 ### 技术栈
 
 **语言 / 运行时**
+
 ![Java](https://img.shields.io/badge/Java-11%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **后端 / 中间件**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud Alibaba](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Cloud Alibaba](https://img.shields.io/badge/Spring%20Cloud%20Alibaba-6DB33F?style=flat-square&logo=spring&logoColor=white&v=3)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DolphinScheduler](https://img.shields.io/badge/DolphinScheduler-1E9FFF?style=flat-square&logo=apache&logoColor=white)
+![DolphinScheduler](https://img.shields.io/badge/DolphinScheduler-1E9FFF?style=flat-square&logo=apache&logoColor=white&v=3)
 
 **前端 / 工程**
+
 ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -52,14 +54,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=default&rank_icon=github&include_all_commits=false" height="165" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=default&rank_icon=github&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNowWJJ&show_icons=true&hide_border=true&theme=default&rank_icon=github&v=3" height="165" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=default&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=default&langs_count=8" height="165" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=default&langs_count=8&v=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNowWJJ&layout=compact&hide_border=true&theme=default&langs_count=8&v=3" height="165" alt="Top languages" />
 </picture>
 
 </div>
