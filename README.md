@@ -4,7 +4,7 @@
 
 **Java 后端 · 企业系统架构 · 数据与调度 · AI 工程化**
 
-[✉️ work_wjj@163.com](mailto:work_wjj@163.com) &nbsp;·&nbsp; [GitHub 主页](https://github.com/TheNowWJJ)
+[邮箱 work_wjj@163.com](mailto:work_wjj@163.com) &nbsp;·&nbsp; [GitHub 主页](https://github.com/TheNowWJJ)
 
 </div>
 
